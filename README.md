@@ -3,6 +3,8 @@ A car sales Power Bi dashboard showcasing trends about  car sales over years.
 
 ![image](https://github.com/user-attachments/assets/c0469639-2fc7-4294-b11a-7b6f3b9e1385)
 
+See Live -> !(https://app.powerbi.com/view?r=eyJrIjoiZjI4MjA1OTAtM2U1MS00OGYzLWIzZWQtNDYwMjI1OTU4ZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 This analysis provides a clear breakdown of the sales performance and key insights from the dashboard. Let me help you refine the structure and consider some additional analytical perspectives:
 
 ---
