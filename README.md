@@ -58,4 +58,4 @@ This analysis provides a clear breakdown of the sales performance and key insigh
 ### **Conclusion**:
 The dashboard reflects strong performance in YTD and MTD sales, especially in the automotive sector. However, deeper analysis into customer behavior, regional performance, and profitability could provide additional insights to further enhance business strategies.
 
-If you need help with building specific Power BI measures or further analysis of the data, feel free to ask!
+
